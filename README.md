@@ -1,6 +1,6 @@
 # yelp-scraper
 
-Aspiring data scientist looking for interesting business trends, or an entrepreneur looking for potential business leads? yelp-scraper provides functionality to search through Yelp's databases of websites to generate business data for your business needs.
+Aspiring data scientist looking for interesting business trends, or an entrepreneur looking for potential business leads? yelp-scraper provides functionality to search through Yelp's databases to generate business data for your business needs.
 
 This project was developed for the Bruin Digital Marketing team (BDM).
 
